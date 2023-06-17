@@ -1,11 +1,15 @@
 # IBM Data Science Professional Certification
-### Repository created for Capstone Data Science Course
+### Repository created for Capstone Data Science Project
 
-![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/46dd5828-c9c2-423e-84e5-40dd760aa7cc)
+Badges Acquired:
+Data Science Professional Certificate
+![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/67113c26-40fa-4d3f-bdff-ffe65e6eda6b)
+https://www.credly.com/badges/8c28e661-a482-4a33-81f3-fe0e6e34f83f
 
-![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/df3b012c-1c76-40c9-96e8-fb1e46a838d6)
+IBM Tools for Data Science
+![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/3034c272-16ad-47b4-a87d-f8d3dab9ee0f)
+https://www.credly.com/badges/400f2744-35f5-47dc-9e61-7982571a06ec
 
-![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/e30b560a-f196-4b32-9e2d-27b6d8dcc3f1)
-
-
-![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/f2887c8d-7e45-43a9-bcf0-1c059711b660)
+Databases in Data Science
+![image](https://github.com/mkomer/Capstone-IBM-Cert-Course/assets/130517808/c9fb1ed3-7b39-45f1-91d0-e58eb7c046b2)
+https://www.credly.com/badges/de4f641d-f2c1-428e-8298-a4bcdc41fd2e
